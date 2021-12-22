@@ -1,0 +1,9 @@
+---
+name: WorldNavigator
+version: 0.0.1
+main: DerCooleVonDem\WorldNavigator\WorldNavigator
+author: "DerCooleVonDem with the help of CLADevs"
+api: 4.0.1
+description: "WorldNavigator - A plugin for great for the usage WorldEdit that allows you to navigate fast through the world. Special thanks to the creators of VanillaX for the command argument api."
+website: "VanillaX -> https://github.com/CLADevs/VanillaX"
+...
