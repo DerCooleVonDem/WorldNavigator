@@ -50,15 +50,15 @@ class UpNavigatorCommand extends NavigatorCommand{
 
 			//I hate this code
 			if(isset($args[2])) {
-				$checkObstruction = $args[2] === "true";
+				$platform = $args[2] == "true";
 			}else{
-				$checkObstruction = true;
+				$platform = true;
 			}
 
 			if(isset($args[3])) {
-				$platform = $args[3] === "true";
+				$checkObstruction = $args[3] == "true";
 			}else{
-				$platform = true;
+				$checkObstruction = true;
 			}
 			// Until here
 
