@@ -1,6 +1,6 @@
 ---
 name: WorldNavigator
-version: 0.0.1
+version: 0.0.2
 main: DerCooleVonDem\WorldNavigator\WorldNavigator
 author: "DerCooleVonDem with the help of CLADevs"
 api: 4.0.1
